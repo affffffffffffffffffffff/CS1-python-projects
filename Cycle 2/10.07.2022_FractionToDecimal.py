@@ -1,0 +1,21 @@
+# 1. Declare Variables and 2. Input
+numerator1 = int(input("Enter a numerator ::  "))
+denominator1 = int(input("Enter a denominator ::  "))
+numerator2 = int(input("Enter a numerator ::  "))
+denominator2 = int(input("Enter a denominator ::  "))
+numerator3 = int(input("Enter a numerator ::  "))
+denominator3 = int(input("Enter a denominator ::  "))
+numerator4 = int(input("Enter a numerator ::  "))
+denominator4 = int(input("Enter a denominator ::  "))
+numerator5 = int(input("Enter a numerator ::  "))
+denominator5 = int(input("Enter a denominator ::  "))
+numerator6 = int(input("Enter a numerator ::  "))
+denominator6 = int(input("Enter a denominator ::  "))
+
+# 3. Process and 4. Output
+print(str(numerator1) + "/" + str(denominator1),"=",numerator1/denominator1)
+print(str(numerator2) + "/" + str(denominator2),"=",numerator2/denominator2)
+print(str(numerator3) + "/" + str(denominator3),"=",numerator3/denominator3)
+print(str(numerator4) + "/" + str(denominator4),"=",numerator4/denominator4)
+print(str(numerator5) + "/" + str(denominator5),"=",numerator5/denominator5)
+print(str(numerator6) + "/" + str(denominator6),"=",numerator6/denominator6)
